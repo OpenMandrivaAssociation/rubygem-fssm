@@ -47,3 +47,10 @@ rm -rf %{buildroot}
 %doc %{ruby_gemdir}/gems/%{oname}-%{version}/VERSION.yml
 %{ruby_gemdir}/cache/%{oname}-%{version}.gem
 %{ruby_gemdir}/specifications/%{oname}-%{version}.gemspec
+
+
+%changelog
+* Sun Dec 19 2010 Rémy Clouard <shikamaru@mandriva.org> 0.1.4-1mdv2011.0
++ Revision: 623122
+- import rubygem-fssm
+
