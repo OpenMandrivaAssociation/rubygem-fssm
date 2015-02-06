@@ -2,7 +2,7 @@
 
 Name:       rubygem-%{oname}
 Version:    0.1.4
-Release:    %mkrel 1
+Release:    2
 Summary:    File System State Monitor
 Group:      Development/Ruby
 License:    MIT
