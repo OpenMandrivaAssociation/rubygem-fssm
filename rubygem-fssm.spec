@@ -6,7 +6,7 @@ Release:    2
 Summary:    File System State Monitor
 Group:      Development/Ruby
 License:    MIT
-URL:        http://github.com/ttilley/fssm
+URL:        https://github.com/ttilley/fssm
 Source0:    %{oname}-%{version}.gem
 BuildRoot:  %{_tmppath}/%{name}-%{version}-%{release}-root
 Requires:   rubygems
